@@ -16,9 +16,9 @@ class _BottonNavBarState extends State<BottonNavBar> {
 
   final List<Widget> pages = [
     const HomePage(),
-    const SavedPage(),
-    const NotificationPage(),
-    const ProfilePage(),
+    // const SavedPage(),
+    // const NotificationPage(),
+    // const ProfilePage(),
   ];
 
   @override
